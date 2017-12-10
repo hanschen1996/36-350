@@ -1,0 +1,5 @@
+cat("Hello from the earth!")
+cat("We have intelligent people and beautiful cities!")
+cat("Earth is said to be formed billions years ago, so it has a long history!")
+cat("People on the earth speak various languages, like English, Chinese, Japanese.")
+cat("What about you guys?")
